@@ -1,0 +1,16 @@
+div{
+    color: blue;
+    background-color: rgb(72, 255, 0);
+}
+span{
+    color: black;
+    background-color: rgb(14, 207, 149);
+}
+p{
+    color: blue;
+    background-color: rgb(72, 255, 0);
+}
+br{
+    color: red;
+    background-color: yellow;
+}
